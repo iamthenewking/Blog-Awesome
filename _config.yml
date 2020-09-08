@@ -1,6 +1,6 @@
 safe:             false
 port:             7993
-baseurl:          /  # Where GitHub serves the project up from
+baseurl:          Blog-Awesome/  # Where GitHub serves the project up from
 url:              http://blog.fontawesome.io
 
 source:           src
